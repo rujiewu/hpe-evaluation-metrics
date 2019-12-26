@@ -1,4 +1,4 @@
-# Human Pose Estimation 101
+# Human Pose Estimation
 
 If you want a slightly more rigorous tutorial and understand the basics of Human Pose Estimation and how the field has evolved, check out these articles I published on [2D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=github&utm_medium=social&utm_campaign=pose&utm_content=cbsudux) and [3D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-3d-guide/)
 
